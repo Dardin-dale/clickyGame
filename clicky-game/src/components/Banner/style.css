@@ -1,0 +1,22 @@
+nav {
+    width: 100%;
+    background: purple;
+    color: whitesmoke;
+    height: 75px;
+}
+
+nav > ul {
+    width: 100%;
+    list-style-type: none;
+}
+
+ul > li {
+    display: inline-block;
+    width: 33%;
+}
+
+.jumbotron {
+    margin-top: 75px;
+    background-image: url("./pink_dust.png");
+    color: whitesmoke;
+}
