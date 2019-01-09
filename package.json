@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://dardin-dale.github.io/clickyGame/",
   "eslintConfig": {
     "extends": "react-app"
   },
