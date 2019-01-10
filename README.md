@@ -1,4 +1,4 @@
-# CLicky Game!
+# Clicky Game!
 
 ## Click on images to play, try not to click the same image twice.
 
